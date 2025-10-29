@@ -39,7 +39,7 @@ sls_price INT
 CREATE TABLE bronze.erp_cust_az12 (
 cid VARCHAR(50),
 bdate DATE,
-gen VARCHAR(50);
+gen VARCHAR(50),
 );
 
 CREATE TABLE bronze.erp_loc_a101 (
